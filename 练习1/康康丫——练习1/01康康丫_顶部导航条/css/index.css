@@ -1,0 +1,48 @@
+/* 基础设置 */
+.container {
+    width: 1190px;
+    margin: 0 auto;
+}
+/* #region顶部导航条 */
+.Top-navigation {
+    height: 30px;
+    background-color: #ECECEC;
+}
+.welcome {  
+     height: 30px;
+     color: #666666;
+     line-height: 30px;
+     font-size: 12px;
+}
+.welcome span,.welcome a {
+    
+     font-size: 12px;   
+}
+.welcome .hello {
+    margin-right: 28px;
+}
+.welcome .login {
+    padding-right: 10px;
+    border-right: 1px solid black;
+}
+.welcome .registration {
+    margin-left: 10px;
+}
+.right-navgation .list li {
+     float: left;
+}
+.right-navgation .list li a {
+    line-height: 30px;
+    font-size: 12px;
+    padding: 0 15px;
+    border-right: 1px solid black;
+   
+}
+.right-navgation .list li:first-child a {
+    padding-left: 0;
+}
+.right-navgation .list li:last-child a {
+    padding-right: 0;
+    border: 0;
+}
+/* #endregion 顶部导航条 */
