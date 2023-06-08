@@ -1,0 +1,42 @@
+19:56:56 INF [API] listening addr=127.0.0.1:50573
+19:56:56 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+19:56:56 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:50599 rAddr=api.github.com:443 proxy=DIRECT
+19:56:56 INF [Config] initial compatible provider name=故障转移
+19:56:56 INF [Config] initial compatible provider name=自动选择
+19:56:56 INF [Config] initial compatible provider name=闪电⚡
+19:56:56 WRN [Metadata] parse failed error=script not found
+19:56:56 WRN [Metadata] parse failed error=script not found
+19:56:56 WRN [Metadata] parse failed error=script not found
+19:56:56 WRN [Metadata] parse failed error=script not found
+19:56:56 INF [TCP] connected lAddr=127.0.0.1:50595 rAddr=raw.githubusercontent.com:443 chain=DIRECT mode=script
+19:56:56 INF [TCP] connected lAddr=127.0.0.1:50585 rAddr=rr2---sn-a5mekn6d.googlevideo.com:443 mode=rule rule=DomainKeyword(google) proxy=闪电⚡[Lv2 新加坡 06 [1.5]]
+19:56:56 INF [TCP] connected lAddr=127.0.0.1:50597 rAddr=starlink.rodeo:443 chain=DIRECT mode=script
+19:56:57 INF [TCP] connected lAddr=127.0.0.1:50598 rAddr=install.cdn-sd.xyz:443 chain=DIRECT mode=script
+19:56:57 WRN [Metadata] parse failed error=script not found
+19:56:57 WRN [Metadata] parse failed error=script not found
+19:56:57 WRN [Metadata] parse failed error=script not found
+19:56:57 WRN [Metadata] parse failed error=script not found
+19:56:58 WRN [Metadata] parse failed error=script not found
+19:56:58 WRN [Metadata] parse failed error=script not found
+19:57:00 WRN [Metadata] parse failed error=script not found
+19:57:01 WRN [Metadata] parse failed error=script not found
+19:57:01 WRN [TCP] dial failed error=dial tcp4 173.236.182.137:443: i/o timeout proxy=DIRECT rAddr=rr2---sn-a5mekn6d.googlevideo.com:443
+19:57:01 WRN [Metadata] parse failed error=script not found
+19:57:03 WRN [Metadata] parse failed error=script not found
+19:57:03 WRN [Metadata] parse failed error=script not found
+19:57:07 WRN [Metadata] parse failed error=script not found
+19:57:10 WRN [Metadata] parse failed error=script not found
+19:57:10 WRN [Metadata] parse failed error=script not found
+19:57:11 WRN [Metadata] parse failed error=script not found
+19:57:52 INF [Config] initial compatible provider name=故障转移
+19:57:52 INF [Config] initial compatible provider name=自动选择
+19:57:52 INF [Config] initial compatible provider name=闪电⚡
+19:57:54 INF [Config] initial compatible provider name=闪电⚡
+19:57:54 INF [Config] initial compatible provider name=故障转移
+19:57:54 INF [Config] initial compatible provider name=自动选择
+19:57:57 INF [Config] initial compatible provider name=故障转移
+19:57:57 INF [Config] initial compatible provider name=自动选择
+19:57:57 INF [Config] initial compatible provider name=闪电⚡
+19:58:10 INF [Config] initial compatible provider name=故障转移
+19:58:10 INF [Config] initial compatible provider name=自动选择
+19:58:10 INF [Config] initial compatible provider name=闪电⚡

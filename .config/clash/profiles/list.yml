@@ -1,0 +1,41 @@
+files:
+  - url: ""
+    time: 1677733666690.yml
+    name: config.yaml
+    selected:
+      - name: GLOBAL
+        now: REJECT
+    mode: global
+  - time: 1677733673034.yml
+    name: SpaceX
+    url: https://starlink.rodeo/api/v1/client/subscribe?token=25d72dcd4295d8e0888395854fe71f26
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: SpaceX
+        now: 台湾IPLC专线
+    interval: 24
+    subInfo:
+      upload: 236102414
+      download: 20093368586
+      total: 107374182400
+      expire: 1682437497
+    homeWeb: https://spacex.im
+    mode: rule
+  - time: 1681565405905.yml
+    name: 闪电⚡
+    url: https://install.cdn-sd.xyz/api/v1/client/subscribe?token=cbd7a4a121a231562264fa8e8902c7dd
+    selected:
+      - name: GLOBAL
+        now: Lv2 新加坡 06 [1.5]
+      - name: 闪电⚡
+        now: Lv2 新加坡 06 [1.5]
+    interval: 24
+    subInfo:
+      upload: 72790629
+      download: 679210950
+      total: 343597383680
+      expire: 1684154586
+    homeWeb: https://shandianpro.com
+    mode: global
+index: 2
